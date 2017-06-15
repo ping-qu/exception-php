@@ -5,7 +5,7 @@ Installation - 安装
 ------------
 
 ```bash
-composer require ping-qu/pingqu-exception
+composer require ping-qu/exception
 ```
 
 Usage - 使用
